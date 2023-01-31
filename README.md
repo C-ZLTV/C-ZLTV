@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @C-ZLTV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-C-ZLTV/C-ZLTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I’m Cristina Zlatov, 
+- 👀 I’m interested in all things crafty like knitting, cross stiching etc., literature, and ofc coding.
+- 🌱 I’m currently learning JavaScrip. My next steps are going to be React, NodeJS and TS.
+- 📫 We can connect on [Twitter](https://twitter.com/czltv) or [LinkedIn](https://www.linkedin.com/in/cristina-zlatov/).
