@@ -1,6 +1,7 @@
 [![Schermata-2023-06-13-alle-1-25-43-AM.png](https://i.postimg.cc/260PPbwP/Schermata-2023-06-13-alle-1-25-43-AM.png)](https://postimg.cc/R6nst02R)
 
-<h3>I'm looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.</h3>
+<h1>Hello,  I'm Zlatov Cristina</h1>
+<h3>A Front-end developer looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.</h3>
 
 <p>Currently learning: TypeScript and Angular</p>
 
