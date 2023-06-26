@@ -6,7 +6,7 @@
 
 ###
 
-<img height="200" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
+<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
 <div align="left">
   <h4>Languages and frameworks:</h4>
@@ -24,7 +24,7 @@
 
 ###
 
-<img height="450" align="left" src="https://64.media.tumblr.com/20b610edb5108bbb2f90c2a6394af115/8ee0824af54ebf42-d0/s1280x1920/643c58fd209be1ef83e82356fdee0c22754d4fe0.jpg"  />
+<img width="370" align="left" src="https://64.media.tumblr.com/20b610edb5108bbb2f90c2a6394af115/8ee0824af54ebf42-d0/s1280x1920/643c58fd209be1ef83e82356fdee0c22754d4fe0.jpg"  />
 
 ###
 
