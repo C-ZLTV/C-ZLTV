@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Zlatov Cristina</h1>
-<h3 align="left">FRONT-END DEVELOPER</h3>
-<h3 align="left">creative looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world</h3>
+<h3 align="left">WEB DEVELOPER</h3>
+<h3 align="left"></h3>
 
 ###
 
