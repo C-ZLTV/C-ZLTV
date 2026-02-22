@@ -25,6 +25,8 @@
   <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-ZLTV&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div> -->
 
+###
+
 <div align="left">
   <h4>Other Technologies:</h4>
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
@@ -39,16 +41,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
+<div height="100">.</p>
 
 ###
-
-
-###
-
 <img width="370" align="left" src="https://64.media.tumblr.com/20b610edb5108bbb2f90c2a6394af115/8ee0824af54ebf42-d0/s1280x1920/643c58fd209be1ef83e82356fdee0c22754d4fe0.jpg"  />
-
-###
-
 
 <div align="left">
   <h4>Styling and design tech:</h4>
