@@ -7,7 +7,7 @@
 <img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
 <div align="left">
-  <h4>Languages and frameworks:</h4>
+  <h4 padding="10">Languages and frameworks:</h4>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
