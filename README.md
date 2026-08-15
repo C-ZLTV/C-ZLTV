@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Zlatov Cristina</h1>
+<h1 align="left">Hello, I'm Cristina</h1>
 <h3 align="left">FRONTEND DEVELOPER</h3>
 <h3 align="left"></h3>
 
@@ -68,19 +68,6 @@
   <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-</div>
-
-###
-
-
-<div align="centr">
-  <h4>Let's connect here:</h4>
-  <a href="https://twitter.com/zlatov_cristina" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cristina-zlatov/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
