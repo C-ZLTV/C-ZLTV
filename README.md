@@ -1,10 +1,8 @@
 <h1 align="left">Hello, I'm Cristina</h1>
-<h3 align="left">FRONTEND DEVELOPER</h3>
+<h3 align="left">WEB DEVELOPER</h3>
 <h3 align="left"></h3>
 
 ###
-
-<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
 <div align="left">
   <h4 padding="10">Languages and frameworks:</h4>
@@ -41,10 +39,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
-<div height="100">.</p>
 
 ###
-<img width="370" align="left" src="https://64.media.tumblr.com/20b610edb5108bbb2f90c2a6394af115/8ee0824af54ebf42-d0/s1280x1920/643c58fd209be1ef83e82356fdee0c22754d4fe0.jpg"  />
 
 <div align="left">
   <h4>Styling and design tech:</h4>
@@ -57,17 +53,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" height="40" alt="atnd logo"  />
-</div>
-
-###
-
-<div align="left">
-  <h4 >Would like to learn:</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
 ###
